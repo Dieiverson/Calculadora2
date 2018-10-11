@@ -1,0 +1,21 @@
+C:\Users\roger\OneDrive\Documentos\Visual Studio 2015\Projects\exercicios CSharp 5\calculadora6\calculadora6\bin\Debug\calculadora6.exe.config
+C:\Users\roger\OneDrive\Documentos\Visual Studio 2015\Projects\exercicios CSharp 5\calculadora6\calculadora6\bin\Debug\calculadora6.exe
+C:\Users\roger\OneDrive\Documentos\Visual Studio 2015\Projects\exercicios CSharp 5\calculadora6\calculadora6\bin\Debug\calculadora6.pdb
+C:\Users\roger\OneDrive\Documentos\Visual Studio 2015\Projects\exercicios CSharp 5\calculadora6\calculadora6\obj\Debug\calculadora6.csprojResolveAssemblyReference.cache
+C:\Users\roger\OneDrive\Documentos\Visual Studio 2015\Projects\exercicios CSharp 5\calculadora6\calculadora6\obj\Debug\calculadora6.Form1.resources
+C:\Users\roger\OneDrive\Documentos\Visual Studio 2015\Projects\exercicios CSharp 5\calculadora6\calculadora6\obj\Debug\calculadora6.Properties.Resources.resources
+C:\Users\roger\OneDrive\Documentos\Visual Studio 2015\Projects\exercicios CSharp 5\calculadora6\calculadora6\obj\Debug\calculadora6.csproj.GenerateResource.Cache
+C:\Users\roger\OneDrive\Documentos\Visual Studio 2015\Projects\exercicios CSharp 5\calculadora6\calculadora6\obj\Debug\calculadora6.exe
+C:\Users\roger\OneDrive\Documentos\Visual Studio 2015\Projects\exercicios CSharp 5\calculadora6\calculadora6\obj\Debug\calculadora6.pdb
+E:\calculadora6\calculadora6\bin\Debug\calculadora6.exe.config
+E:\calculadora6\calculadora6\obj\Debug\calculadora6.exe
+E:\calculadora6\calculadora6\obj\Debug\calculadora6.pdb
+C:\Users\Renan Kava\Desktop\calculadora6\calculadora6\bin\Debug\calculadora6.exe.config
+C:\Users\Renan Kava\Desktop\calculadora6\calculadora6\bin\Debug\calculadora6.exe
+C:\Users\Renan Kava\Desktop\calculadora6\calculadora6\bin\Debug\calculadora6.pdb
+C:\Users\Renan Kava\Desktop\calculadora6\calculadora6\obj\Debug\calculadora6.csprojResolveAssemblyReference.cache
+C:\Users\Renan Kava\Desktop\calculadora6\calculadora6\obj\Debug\calculadora6.Form1.resources
+C:\Users\Renan Kava\Desktop\calculadora6\calculadora6\obj\Debug\calculadora6.Properties.Resources.resources
+C:\Users\Renan Kava\Desktop\calculadora6\calculadora6\obj\Debug\calculadora6.csproj.GenerateResource.Cache
+C:\Users\Renan Kava\Desktop\calculadora6\calculadora6\obj\Debug\calculadora6.exe
+C:\Users\Renan Kava\Desktop\calculadora6\calculadora6\obj\Debug\calculadora6.pdb
